@@ -1,3 +1,3 @@
 # simple
 It is simple repository
-first program
+first program for me
